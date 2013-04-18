@@ -1,0 +1,6 @@
+#!/bin/bash
+
+./bin/build
+git add .
+git commit -m 'Update list'
+git push origin master
