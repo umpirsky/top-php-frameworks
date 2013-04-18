@@ -1,0 +1,24 @@
+#!/usr/bin/env php
+<?php
+
+require __DIR__.'/../vendor/autoload.php';
+
+$markup = '<table><tr><th>#</th><th>Name</th><th>Followers</th><th>Forks</th></tr>';
+foreach ((new Top\Github\Repositories\Fetcher(require __DIR__.'/../frameworks.php'))->fetch() as $i => $repository) {
+    $markup .= sprintf(
+        '<tr><td>%d</td><td>[%s](https://github.com/%s)</td><td>%d</td><td>%d</td></tr>',
+        $i + 1,
+        $repository['name'],
+        $repository['full_name'],
+        $repository['watchers'],
+        $repository['forks']
+    );
+}
+
+if (false === $tpl = file_get_contents(__DIR__.'/../README.tpl')) {
+    throw new \RuntimeException('Readme template not found.');
+}
+
+if (!file_put_contents(__DIR__.'/../README.md', str_replace('%top-php-frameworks%', $markup, $tpl))) {
+    throw new \RuntimeException('Failed to write to readme.');
+}

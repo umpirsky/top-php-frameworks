@@ -1,0 +1,24 @@
+{
+    "name": "umpirsky/top-php-frameworks",
+    "type": "library",
+    "description": "Top ranking PHP frameworks.",
+    "keywords": ["php", "framework", "frameworks", "top", "best"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Saša Stamenković",
+            "email": "umpirsky@gmail.com",
+            "homepage": "http://umpirsky.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.4",
+        "umpirsky/top-github-repositories": "0.1.*"
+    },
+    "minimum-stability": "dev",
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
