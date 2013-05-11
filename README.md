@@ -5,9 +5,9 @@ Top Ranking PHP Frameworks
 <tr>
     <td>1</td>
     <td>[symfony](https://github.com/symfony/symfony)</td>
-    <td>6575</td>
+    <td>6576</td>
     <td>2277</td>
-    <td>523</td>
+    <td>524</td>
 </tr>
 
 <tr>
@@ -21,7 +21,7 @@ Top Ranking PHP Frameworks
 <tr>
     <td>3</td>
     <td>[laravel](https://github.com/laravel/laravel)</td>
-    <td>4221</td>
+    <td>4223</td>
     <td>1233</td>
     <td>49</td>
 </tr>
@@ -37,7 +37,7 @@ Top Ranking PHP Frameworks
 <tr>
     <td>5</td>
     <td>[cakephp](https://github.com/cakephp/cakephp)</td>
-    <td>3790</td>
+    <td>3789</td>
     <td>1309</td>
     <td>29</td>
 </tr>
@@ -56,5 +56,13 @@ Top Ranking PHP Frameworks
     <td>1250</td>
     <td>208</td>
     <td>1</td>
+</tr>
+
+<tr>
+    <td>8</td>
+    <td>[lithium](https://github.com/UnionOfRAD/lithium)</td>
+    <td>770</td>
+    <td>206</td>
+    <td>46</td>
 </tr>
 

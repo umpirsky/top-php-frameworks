@@ -8,4 +8,5 @@ return array(
     'yiisoft' => 'yii',
     'cakephp' => 'cakephp',
     'laravel' => 'laravel',
+    'UnionOfRAD' => 'lithium',
 );
