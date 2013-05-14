@@ -5,56 +5,56 @@ Top Ranking PHP Frameworks
 <tr>
     <td>1</td>
     <td>[symfony](https://github.com/symfony/symfony)</td>
-    <td>6584</td>
-    <td>2273</td>
-    <td>526</td>
+    <td>6588</td>
+    <td>2276</td>
+    <td>536</td>
 </tr>
 
 <tr>
     <td>2</td>
     <td>[CodeIgniter](https://github.com/EllisLab/CodeIgniter)</td>
-    <td>5664</td>
-    <td>2308</td>
-    <td>220</td>
+    <td>5671</td>
+    <td>2311</td>
+    <td>222</td>
 </tr>
 
 <tr>
     <td>3</td>
     <td>[laravel](https://github.com/laravel/laravel)</td>
-    <td>4234</td>
+    <td>4240</td>
     <td>1237</td>
-    <td>47</td>
+    <td>19</td>
 </tr>
 
 <tr>
     <td>4</td>
     <td>[zf2](https://github.com/zendframework/zf2)</td>
     <td>3966</td>
-    <td>1991</td>
-    <td>263</td>
+    <td>1989</td>
+    <td>271</td>
 </tr>
 
 <tr>
     <td>5</td>
     <td>[cakephp](https://github.com/cakephp/cakephp)</td>
-    <td>3791</td>
-    <td>1309</td>
-    <td>29</td>
+    <td>3796</td>
+    <td>1308</td>
+    <td>30</td>
 </tr>
 
 <tr>
     <td>6</td>
     <td>[yii](https://github.com/yiisoft/yii)</td>
-    <td>2686</td>
-    <td>1041</td>
-    <td>468</td>
+    <td>2687</td>
+    <td>1043</td>
+    <td>470</td>
 </tr>
 
 <tr>
     <td>7</td>
     <td>[fuel](https://github.com/fuel/fuel)</td>
     <td>1251</td>
-    <td>208</td>
+    <td>210</td>
     <td>1</td>
 </tr>
 
