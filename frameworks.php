@@ -9,4 +9,5 @@ return array(
     'cakephp' => 'cakephp',
     'laravel' => 'laravel',
     'UnionOfRAD' => 'lithium',
+    'alexdodonov' => 'mezon',
 );
